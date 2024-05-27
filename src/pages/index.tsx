@@ -12,7 +12,7 @@ import VisitUs from "@/components/VisitUs/VisitUs";
 import Testimonials from "@/components/Testimonials/Testimonial";
 import Footer from "@/components/Footer/Footer";
 import { PROMOTIONAL_BANNER_ITEMS } from "@/constants";
-import { GetStaticProps } from "next";
+
 
 
 const Home = () => {
